@@ -5,10 +5,6 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-<<<<<<< HEAD
- 
-=======
     <App />
   </StrictMode>,
 )
->>>>>>> 57f8d0e (react projects)
