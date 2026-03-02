@@ -7,9 +7,7 @@ import"./App.css";
 
 function App(){
 return <div>
-  <CloackHeading></CloackHeading>
-  <CloackSlogan></CloackSlogan>
-  <CurrentTime></CurrentTime>
+
 </div>
 }
 export default App;
