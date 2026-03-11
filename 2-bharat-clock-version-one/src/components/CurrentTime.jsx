@@ -1,5 +1,5 @@
 let CurrentTime = () => {
-return <p>This is the current time:</p>
+return <p>This is the current Time:</p>
 
 }
 export default CurrentTime;
