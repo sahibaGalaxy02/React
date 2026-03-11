@@ -1,4 +1,4 @@
 function KgButton() {
-    return <button> Like this video </button>
+    return <button> Hello every one </button>
 }
 export default KgButton;
